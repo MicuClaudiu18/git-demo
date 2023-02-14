@@ -2,3 +2,5 @@ potatos
 bread
 water
 milk
+apple
+tomatoes
